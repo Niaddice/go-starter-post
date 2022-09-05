@@ -1,6 +1,6 @@
 #### 介绍
 go starter模版
-可用于接口等工具开发
+基于nextcloud api二度封装了nextcloud接口服务
 
 #### 软件架构
 gin
